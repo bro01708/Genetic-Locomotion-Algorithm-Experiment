@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CameraController">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgCgAAIAICAAAQAAAAAAIAAAAABAAAAAQAIBAAAQEQA=</HashCode>
+      <FileName>Assets\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DragRigidBody2D">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABSAAAAAAiAAAEAAAAAAAAAgAAQgAAIAAFBQAgAAAAE=</HashCode>
+      <FileName>Assets\DragRigidBody2D\Scripts\DragRigidBody2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JointController">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAgiAgAUAAAgAACABAAAAAAAAAAABACAAACAA=</HashCode>
+      <FileName>Assets\JointController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Chromosome">
+    <Position X="14.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAEgIAAAIAAAAQAEAAAAAAAAAEACAAAACAAIAEAAAAA=</HashCode>
+      <FileName>Assets\Chromosome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Gene">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAABAAAAAAAAAAAAAAABAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Gene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.GeneticAlgorithm">
+    <Position X="7.25" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAABAAQCAQgAAAAIABAACQAIAAJAAAAAaAQAEmAAADA=</HashCode>
+      <FileName>Assets\GeneticAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Main">
+    <Position X="12.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABElAIAAiABAAAAgCAACACACAAAAAAAAAQAOABAACA=</HashCode>
+      <FileName>Assets\Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
